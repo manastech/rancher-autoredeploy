@@ -1,0 +1,7 @@
+name: rancher-autoredeploy
+version: 0.1.0
+
+authors:
+  - Santiago Palladino <spalladino@gmail.com>
+
+license: MIT
