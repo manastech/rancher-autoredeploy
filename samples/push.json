@@ -1,0 +1,25 @@
+{
+  "push_data": {
+    "pushed_at": 1477071058,
+    "images": [],
+    "tag": "latest",
+    "pusher": "spalladino"
+  },
+  "callback_url": "https://registry.hub.docker.com/u/spalladino/alpine-test/hook/23aa12ej12b3344hgcc3525ge543fb200/",
+  "repository": {
+    "status": "Active",
+    "description": "Tests with alpine",
+    "is_trusted": false,
+    "full_description": "",
+    "repo_url": "https://hub.docker.com/r/spalladino/alpine-test",
+    "owner": "spalladino",
+    "is_official": false,
+    "is_private": false,
+    "name": "alpine-test",
+    "namespace": "spalladino",
+    "star_count": 0,
+    "comment_count": 0,
+    "date_created": 1477070807,
+    "repo_name": "spalladino/alpine-test"
+  }
+}
