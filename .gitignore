@@ -2,5 +2,8 @@
 /libs/
 /.crystal/
 /.shards/
+/build/
 
 .env
+
+./rancher-autoredeploy

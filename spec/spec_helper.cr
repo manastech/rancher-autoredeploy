@@ -1,2 +1,4 @@
 require "spec"
-require "../src/rancher-autoredeploy"
+require "../src/logger"
+require "../src/config"
+require "../src/rancher-autoredeploy/*"
