@@ -2,7 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/manastech/rancher-autoredeploy/tree/master.svg?style=svg)](https://circleci.com/gh/manastech/rancher-autoredeploy/tree/master)
 
-**Deprecated in favour of Docker Hub Webhooks in Rancher 1.6***
+**Deprecated in favour of [Docker Hub Webhooks](http://rancher.com/docs/rancher/v1.6/en/cattle/webhook-service/#upgrading-a-service-based-on-docker-hub-webhooks) in Rancher 1.6**
 
 This [Crystal](http://crystal-lang.org/) program brings [Docker Cloud's autoredeploy](https://docs.docker.com/docker-cloud/apps/auto-redeploy/) feature to Rancher. It listens for requests from Docker Hub in a specified port, and upgrades all services that depend on the container.
 
